@@ -7,11 +7,6 @@
 <br>
 <br>
 
-<div align="center">
- 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henriquesilvaramos&theme=meta-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-  
-</div>
 
 
 
